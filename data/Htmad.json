@@ -6,5 +6,12 @@
     "verifier": "Infg",
     "verification": "https://drive.google.com/file/d/1esPjPYjTmr_URu4a_tM31dNrkFZlAXP4/view?t=2",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+            "user": "Catty",
+            "link": "https://www.youtube.com/watch?v=RKmWtndQVms",
+            "percent": 59,
+            "hz": 240
+        }
+    ]
 }
