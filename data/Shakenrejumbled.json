@@ -6,5 +6,13 @@
     "verifier": "Raezori",
     "verification": "https://youtu.be/W9IXCoaA3mc",
     "percentToQualify": 62,
-    "records": []
+    "records": [
+     {
+
+            "user": "doom",
+            "link": "https://youtu.be/1VG6C459Urw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
