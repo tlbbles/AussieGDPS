@@ -1,10 +1,10 @@
 {
-    "id": 475,
-    "name": "Silent Voidstep",
-    "author": "Raezori",
+    "id": 973,
+    "name": "Memory Challenge",
+    "author": "Catty",
     "creators": [],
-    "verifier": "Raezori",
-    "verification": "https://youtu.be/LwYZMLIWXAc?si=aq_CgbKwvIr6RxI1",
+    "verifier": "Catty",
+    "verification": "Pending",
     "percentToQualify": 54,
     "records": [
          {
@@ -16,13 +16,13 @@
         },
         {
 
-            "user": "InternetDasher",
-            "link": "https://youtu.be/GanyKkT8AK4?si=fs3xaM8R7s-5qL8s",
+            "user": "none",
+            "link": "none",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "EvilEmperium",
+            "user": "nkne",
             "link": "https://youtu.be/wiiYbIPX7ho?si=MLd-3n9ebcgbul6q",
             "percent": 100,
             "hz": 240
